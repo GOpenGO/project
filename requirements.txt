@@ -1,6 +1,5 @@
-﻿Flask
-gunicorn
-pandas
 streamlit
-plotly
-matplotlib
+pandas
+matplotlib.pyplot
+plotly.express
+warnings
