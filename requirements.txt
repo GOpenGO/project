@@ -3,4 +3,4 @@ gunicorn
 pandas
 streamlit
 plotly
-matplotlib.pyplot
+matplotlib
