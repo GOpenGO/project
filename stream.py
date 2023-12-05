@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 from matplotlib import pyplot as plt
-import plotly.express as px
+from plotly import express as px
 import warnings
 
 warnings.simplefilter('ignore')
