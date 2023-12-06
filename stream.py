@@ -184,7 +184,7 @@ fig = px.choropleth(r_df,
                     locationmode='USA-states',
                     color='Smokers',
                     scope="usa",
-                    title='smokers per state')
+                    title='Smokers per state')
 st.plotly_chart(fig)
 fig = px.choropleth(r_df,
                     locations='State',
